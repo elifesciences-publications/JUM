@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Wang et al., "Striking circadian neuron diversity and cycling of Drosophila alternative splicing". eLife, 2018. http://dx.doi.org/10.7554/eLife.35618
+
+
 # JUM
 - Junction Usage Model (JUM) is a tool that offers a completely annotation-free approach to perform differential analysis of tissue-specific pre-mRNA alternative splicing patterns.
 
